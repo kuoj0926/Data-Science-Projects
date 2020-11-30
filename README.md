@@ -1,3 +1,3 @@
 # Data-Science-Projects
 
-[Popular Data Science Questions](Data-Science-Projects/Popular Data Science Questions.ipynb)
+These are the data science projects I've worked on my own.
